@@ -273,6 +273,14 @@ section.success {
     }
 }
 
+a {
+    color: rgb(0, 117, 135);
+}
+
+a:hover {
+    color: rgb(0, 62, 88);
+}
+
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
     .portfolio-flex-grid .portfolio-flex-row {
