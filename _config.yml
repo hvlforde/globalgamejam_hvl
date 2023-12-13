@@ -6,6 +6,7 @@ description: "Write an awesome description for your new site here. You can edit 
 keywords: "your keywords, separated by commas"
 short_about: "HVL Campus Førde is hosting a local event for Global Game Jam 2024"
 meta_author: LastName FirstName
+baseurl: "/globalgamejam_hvl"
 
 # Google webmaster tools
 google_verify:
