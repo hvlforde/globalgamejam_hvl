@@ -2,7 +2,7 @@ HVL GGJ'24 Website
 =========================
 
 ## How to use
-To compile:  bundle exec jekyll serve
+To compile:  bundle exec jekyll serve --baseurl=''
 (Do this the first time:  bundle install)
 
 
