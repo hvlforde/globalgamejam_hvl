@@ -302,7 +302,7 @@ a:hover {
 }
 
 #program {
-    background-color: #dcf4ff;
+    background-color: #b2cafe;
     /* Replace with your desired color */
 }
 
@@ -518,7 +518,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #2c3e50 !important;
+    background-color: #0e3c7b !important;
 }
 
 /* Fix modal mouse wheel issues */
