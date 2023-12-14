@@ -85,9 +85,17 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #0e0d0d;
-    background: #01d6a4;
+    /*background: #01d6a4;*/
 }
 
+header {
+    background-image: url('img/header.png'); /* Path to your image */
+    background-size: cover; /* Cover ensures that the background image covers the entire header */
+    background-position: center; /* Centers the image */
+    height: 1080px; /* Set the height of the header */
+    width: 1920px; /* Set the width of the header */
+    /* You can add more styling properties as needed */
+}
 
 header .container {
     padding-top: 100px;
@@ -518,7 +526,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #0e3c7b !important;
+    background-color: #7c9ae0 !important;
 }
 
 /* Fix modal mouse wheel issues */
