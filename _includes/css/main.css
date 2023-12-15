@@ -90,8 +90,8 @@ header {
 
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 
@@ -100,7 +100,7 @@ header {
     position: relative;
     width: 100%;
     /* Full width of the container */
-    height: 1080px;
+    height: auto;
     /* Adjust as needed */
     overflow: hidden;
     /* Ensures no part of the image spills out */
@@ -273,6 +273,11 @@ section.success {
     color: #fff;
 }
 
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }
@@ -298,6 +303,26 @@ a {
 
 a:hover {
     color: rgb(0, 62, 88);
+}
+
+/* CSS for mobile devices */
+@media screen and (max-width: 768px) {
+
+    /* Adjust the max-width as needed */
+    .header {
+        height: auto;
+        /* Example: Change the height */
+        padding: 0px;
+        /* Example: Adjust padding */
+        /* Other adjustments as needed */
+    }
+
+    .header img {
+        width: 100%;
+        /* Make the image fully responsive */
+        height: auto;
+        /* Maintain aspect ratio */
+    }
 }
 
 /* Flexbox Portfolio Grid */
