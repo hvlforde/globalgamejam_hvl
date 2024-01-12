@@ -2,10 +2,10 @@
 title: GGJ 2024 - HVL Campus Førde
 email: robotikklabben.forde@gmail.com
 url: https://hvlforde.github.io/globalgamejam_hvl/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Webpage for the local global game jam event i Førde."
+keywords: "global game jam, førde, hvl, høgskulen, vestlandet"
 short_about: "HVL Campus Førde is hosting a local event for Global Game Jam 2024"
-meta_author: LastName FirstName
+meta_author: HVL Campus Førde
 baseurl: "/globalgamejam_hvl"
 
 # Google webmaster tools
